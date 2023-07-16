@@ -1,2 +1,2 @@
-** Real-time-chat **<br/>
+# Real-time-chat <br/>
 This project aims to create a real-time personal messaging platform using Socket.io and Web Sockets. The main objective is to provide users with instant updates when someone new joins or leaves the chat. Additionally, all messages exchanged in the chat will be stored in a database, indexed by user ID and time. This system allows multiple persons to connect and communicate simultaneously. The technologies used to achieve this include HTML and CSS for the frontend, Node.js for the backend, Express.js as the web application framework, and MongoDB as the database. By leveraging these technologies, we aim to provide a seamless and efficient messaging experience for users, enhancing their real-time communication.
